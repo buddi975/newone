@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\bin\Debug\uaDB.mdf
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\bin\Debug\uaDB_log.ldf
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\bin\Debug\WindowsFormsApp5 Final.exe.config
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\bin\Debug\WindowsFormsApp5 Final.exe
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\bin\Debug\WindowsFormsApp5 Final.pdb
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.AddUser.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.Attendence.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.Home.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.LogIn.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.LogOut.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.ManageMember.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.Payment.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.Profile.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5_Final.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.exe
+C:\Users\User\source\repos\WindowsFormsApp5 Final\WindowsFormsApp5 Final\obj\Debug\WindowsFormsApp5 Final.pdb
